@@ -4,6 +4,7 @@ Links to things
 ## HTTP Utils
 
 * [httpbin](http://httpbin.org/#/) - Mock HTTP interactions
+* [jsonplaceholder](http://jsonplaceholder.typicode.com/) - More mock HTTP interactions
 
 ## Learning languages/frameworks
 
