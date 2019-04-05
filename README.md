@@ -15,3 +15,4 @@ Links to things
 
 * [learn x in y minutes](https://learnxinyminutes.com/) - language cheatsheets
 * [exercism](https://exercism.io/my/tracks) - guided programming problems, with human feedback
+* [treehouse](https://teamtreehouse.com/) - paid programming learning site
